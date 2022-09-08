@@ -1,6 +1,7 @@
-0.8.20220908
+0.8.20220908.1
 ---
 1.修复IJK FFMPEG
 2.修复XWalkView下载地址失效
 3.优化全屏切换
 4.手机：全屏播放左上角添加退出全屏
+5.修复权限获取与自动更新问题（不能下载更新的，请到github.com/kensonmiao/CatVodTVOSC_Release手动下载）
