@@ -1,7 +1,5 @@
-0.8.20220908.1
+0.8.20220909
 ---
-1.修复IJK FFMPEG
-2.修复XWalkView下载地址失效
-3.优化全屏切换
-4.手机：全屏播放左上角添加退出全屏
-5.修复权限获取与自动更新问题（不能下载更新的，请到github.com/kensonmiao/CatVodTVOSC_Release手动下载）
+1.修复全屏模式下遥控器某些按键无响应
+2.添加安卓8及更高版本的画中画支持（不悦？请到设置找到本app，关闭画中画权限）
+3.修复安卓4.x不能下载更新（github.com/kensonmiao/CatVodTVOSC_Release手动下载）
